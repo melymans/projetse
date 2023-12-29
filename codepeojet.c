@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#define N 100 // Remplacez cette valeur par la taille du tampon
+#define N 10
 
 // Variables globales
 int** B;
